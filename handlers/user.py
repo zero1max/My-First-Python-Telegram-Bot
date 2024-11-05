@@ -4,7 +4,7 @@ from keyboards.defoult.main import main_keyboard
 from keyboards.inline.main import inline_keyboard, back
 
 # ------------------------------------- Admin ID ----------------------------------------------------------------
-ADMIN_ID = 5497523941  
+ADMIN_ID = "ADMIN_ID" 
 
 # ------------------------------------- Start ----------------------------------------------------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
